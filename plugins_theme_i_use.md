@@ -8,7 +8,7 @@ Plugins
 7. Woocommerence (Shop plugin for wordpress)
 
 Themes
-1. Hello Elementor
+1. [Hello Elementor](https://elementor.com/hello-theme/)
 2. [Astra](https://wpastra.com/?bsf=581)
 3. [Blocksy](https://creativethemes.com/blocksy/)
 4. [Neve](https://themeisle.com/themes/neve/)
