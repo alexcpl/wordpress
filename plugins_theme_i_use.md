@@ -14,6 +14,8 @@ Plugins
 13. Simple Custom CSS and JS (Custom scripts for wordpress)
 14. Site Kit by Google (Google Analytics)
 15. WP File Manager (for manage file if you don't have backend file manager access)
+16. Facebook Chat Plugin - Live Chat Plugin for WordPress (Chat plugin)
+17. GDPR Cookie Consent (Cookie consent)
 
 Themes
 1. [Hello Elementor](https://elementor.com/hello-theme/)
