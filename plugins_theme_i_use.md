@@ -1,6 +1,6 @@
 Plugins
 1. Antispam Bee (Anti spam)
-2. Elementor Pro (Site WYSIWYG editor)
+2. [Elementor Pro](https://trk.elementor.com/1vvb8adqx33e) (Site WYSIWYG editor)
 3. Elementor Blocks for Gutenberg (Addons for elementor)
 4. OoohBoi Steroids for Elementor (Addons for elementor)
 5. Stackable - Gutenberg Blocks (Addons for wordpress default editor)
@@ -18,7 +18,7 @@ Plugins
 17. GDPR Cookie Consent (Cookie consent)
 
 Themes
-1. [Hello Elementor](https://elementor.com/hello-theme/)
+1. [Hello Elementor](https://trk.elementor.com/1vvb8adqx33e)
 2. [Astra](https://wpastra.com/?bsf=581)
 3. [Blocksy](https://creativethemes.com/blocksy/)
 4. [Neve](https://themeisle.com/themes/neve/)
