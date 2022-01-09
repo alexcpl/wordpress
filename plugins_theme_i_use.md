@@ -6,6 +6,13 @@ Plugins
 5. Smash Balloon Instagram Feed (Instagram feed plugin)
 6. WPvivid Backup Plugin (Backup plugin)
 7. Woocommerence (Shop plugin for wordpress)
+8. Erident Custom Login and Dashboard (custom login page)
+9. If Menu - Visibility control for menu items (Show or hide menu items for login or non login users)
+10. iThemes Security (Security scanner)
+11. Rank Math SEO (SEO plugins)
+12. Simple Custom CSS and JS (Custom scripts for wordpress)
+13. Site Kit by Google (Google Analytics)
+14. WP File Manager (for manage file if you don't have backend file manager access)
 
 Themes
 1. [Hello Elementor](https://elementor.com/hello-theme/)
