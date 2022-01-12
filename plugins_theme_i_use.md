@@ -16,6 +16,7 @@ Plugins
 15. WP File Manager (for manage file if you don't have backend file manager access)
 16. Facebook Chat Plugin - Live Chat Plugin for WordPress (Chat plugin)
 17. GDPR Cookie Consent (Cookie consent)
+18. [Prime Slider](https://wordpress.org/plugins/bdthemes-prime-slider-lite/) (testing)
 
 Themes
 1. [Hello Elementor](https://trk.elementor.com/1vvb8adqx33e)
