@@ -17,6 +17,7 @@ Plugins
 16. Facebook Chat Plugin - Live Chat Plugin for WordPress (Chat plugin)
 17. GDPR Cookie Consent (Cookie consent)
 18. [Prime Slider](https://wordpress.org/plugins/bdthemes-prime-slider-lite/) (testing)
+19. [White label cms](https://wordpress.org/plugins/white-label-cms/) (testing)
 
 Themes
 1. [Hello Elementor](https://trk.elementor.com/1vvb8adqx33e)
