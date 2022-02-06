@@ -27,3 +27,6 @@ Themes
 
 Advertisement
 1. [Google Listings & Ads by WooCommerce](https://woocommerce.com/products/google-listings-and-ads/)
+
+Conditional
+1. [Header Footer Code Manager](https://wordpress.org/plugins/header-footer-code-manager/)
