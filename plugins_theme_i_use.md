@@ -30,3 +30,6 @@ Advertisement
 
 Conditional
 1. [Header Footer Code Manager](https://wordpress.org/plugins/header-footer-code-manager/)
+
+E-Commerence
+1. (Product Variation Swatches for Woocommerce)[https://wordpress.org/plugins/woo-variation-swatches/#:~:text=Variation%20Swatches%20is%20easy%20to,images%2C%20colors%2C%20and%20label.]
