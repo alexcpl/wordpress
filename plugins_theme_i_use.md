@@ -32,4 +32,4 @@ Conditional
 1. [Header Footer Code Manager](https://wordpress.org/plugins/header-footer-code-manager/)
 
 E-Commerence
-1. [Product Variation Swatches for Woocommerce](https://wordpress.org/plugins/woo-product-variation-swatches/)
+1. [Product Variation Swatches for Woocommerce](https://wordpress.org/plugins/woo-variation-swatches/)
