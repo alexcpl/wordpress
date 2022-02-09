@@ -34,4 +34,4 @@ Conditional
 E-Commerence
 1. [Product Variation Swatches for Woocommerce](https://wordpress.org/plugins/product-variation-swatches-for-woocommerce/)
 2. Kadence WooCommerce Email Designer
-3. Product Filter by WooBeWoo
+3. Filter Everything
