@@ -16,6 +16,7 @@
 [graphicburger](https://graphicburger.com/?s=free)<br>
 [orioniconlibrary](https://orioniconlibrary.com/)<br>
 [lordicon](http://lordicon.com)<br>
+[Placeit](https://placeit.net)<br>
 
 ### Mockups
 [pixeden](http://www.pixeden.com/)<br>
@@ -24,6 +25,7 @@
 [mockupworld](https://www.mockupworld.co/all-mockups/)<br>
 [behance – Best-Free-Mockup](https://www.behance.net/collection/20880985/Best-Free-Mockup)<br>
 [Canva](https://canva.com)<br>
+[Creative Market](https://creativemarket.com)<br>
 
 ### Color Palette Generator
 [Coolors](https://coolors.co/)<br>
@@ -40,10 +42,11 @@
 [UIGradients.com](https://uigradients.com)<br>
 
 ### Fonts
-[fontesk](https://fontesk.com/)
+[fontesk](https://fontesk.com/)<br>
+[WhatFont](https://whatfont.com)<br>
 
 ### Others
-[Whocanuse](https://whocanuse.com/?b=335399&c=ebbddc&f=20&s)
+[Whocanuse](https://whocanuse.com/?b=335399&c=ebbddc&f=20&s)<br>
 [GTmetrix](https://gtmetrix.com)<br>
 [Pingdom](https://tools.pingdom.com)<br>
 [PageSpeed Insights](https://pagespeed.web.dev)<br>
@@ -54,5 +57,5 @@
 [Proposable](https://proposable.com)<br>
 [Blisk](https://blisk.com)<br>
 [Themeforest](https://themeforest.com)<br>
-
-
+[OnlyWire](https://onlywire.com)<br>
+[Envato Elements](https://elements.envato.com)<br>
