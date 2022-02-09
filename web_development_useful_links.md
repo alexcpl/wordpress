@@ -33,3 +33,9 @@
 [Collor](http://colllor.com/)<br>
 [ColourLovers](https://www.colourlovers.com/)<br>
 [Colourcode](https://colourco.de/)<br>
+
+### Fonts
+[fontesk](https://fontesk.com/)
+
+### Others
+[Whocanuse](https://whocanuse.com/?b=335399&c=ebbddc&f=20&s)
