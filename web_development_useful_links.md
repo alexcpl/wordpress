@@ -5,6 +5,8 @@
 [picjumbo](https://picjumbo.com/latest-free-stock-photos/)<br>
 [stocksnap](https://stocksnap.io/)<br>
 [freepik](https://www.freepik.com/)<br>
+[pixabay](https://pixabay.com/)<br>
+[blush.design](https://blush.design)<br>
 
 ### Icons
 [flaticon](https://www.flaticon.com/)<br>
@@ -20,6 +22,7 @@
 [webdesigndev](https://webdesigndev.com/)<br>
 [mockupworld](https://www.mockupworld.co/all-mockups/)<br>
 [behance – Best-Free-Mockup](https://www.behance.net/collection/20880985/Best-Free-Mockup)<br>
+[Canva](https://canva.com)<br>
 
 ### Color Palette Generator
 [Coolors](https://coolors.co/)<br>
