@@ -15,6 +15,7 @@
 [webdesignerdepot](https://www.webdesignerdepot.com/category/freebies/)<br>
 [graphicburger](https://graphicburger.com/?s=free)<br>
 [orioniconlibrary](https://orioniconlibrary.com/)<br>
+[lordicon](http://lordicon.com)<br>
 
 ### Mockups
 [pixeden](http://www.pixeden.com/)<br>
@@ -36,9 +37,22 @@
 [Collor](http://colllor.com/)<br>
 [ColourLovers](https://www.colourlovers.com/)<br>
 [Colourcode](https://colourco.de/)<br>
+[UIGradients.com](https://uigradients.com)<br>
 
 ### Fonts
 [fontesk](https://fontesk.com/)
 
 ### Others
 [Whocanuse](https://whocanuse.com/?b=335399&c=ebbddc&f=20&s)
+[GTmetrix](https://gtmetrix.com)<br>
+[Pingdom](https://tools.pingdom.com)<br>
+[PageSpeed Insights](https://pagespeed.web.dev)<br>
+[ManageWP](https://managewp.com)<br>
+[TinyJPG](https://tinyjpg.com)<br>
+[WooRank](https://woorank.com)<br>
+[WhatWPThemeIsThat](https://whatwpthemeisthat.com)<br>
+[Proposable](https://proposable.com)<br>
+[Blisk](https://blisk.com)<br>
+[Themeforest](https://themeforest.com)<br>
+
+
