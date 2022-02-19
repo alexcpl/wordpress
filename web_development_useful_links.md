@@ -7,6 +7,8 @@
 [freepik](https://www.freepik.com/)<br>
 [pixabay](https://pixabay.com/)<br>
 [blush.design](https://blush.design)<br>
+[drawkit.io](https://drawkit.io)<br>
+[openpeeps.com](https://openpeeps.com)<br>
 
 ### Icons
 [flaticon](https://www.flaticon.com/)<br>
@@ -40,6 +42,7 @@
 [ColourLovers](https://www.colourlovers.com/)<br>
 [Colourcode](https://colourco.de/)<br>
 [UIGradients.com](https://uigradients.com)<br>
+
 
 ### Fonts
 [fontesk](https://fontesk.com/)<br>
