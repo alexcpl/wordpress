@@ -36,3 +36,4 @@ E-Commerence
 1. [Product Variation Swatches for Woocommerce](https://wordpress.org/plugins/product-variation-swatches-for-woocommerce/)
 2. Kadence WooCommerce Email Designer
 3. Filter Everything
+4. Payment Gateway - [Pay Dollar](https://www.paydollar.com/tc/index.html)
