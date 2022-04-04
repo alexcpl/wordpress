@@ -37,3 +37,5 @@ E-Commerence
 2. Kadence WooCommerce Email Designer
 3. Filter Everything
 4. Payment Gateway - [Pay Dollar](https://www.paydollar.com/tc/index.html)
+5. Payment Gateway - [Stripe](https://stripe.com)
+6. Payment Gateway - [PayPal](https://www.paypal.com)
