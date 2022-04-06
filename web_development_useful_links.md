@@ -71,10 +71,10 @@
 [Terms and Conditions Generator](https://www.termsandconditionsgenerator.com)<br>
 
 ### Others
-[Mockup Mark](https://mockupmark.com/)
-[Toptal](https://www.toptal.com/designers/subtlepatterns/patterns/)
-[My Fonts](https://www.myfonts.com/WhatTheFont)
-[Icon Scout](https://iconscout.com/free-icons/)
-[Open Doodles](https://www.opendoodles.com/)
-[Craftwork](https://craftwork.design/downloads/category/freebies/)
-[Pixel Scrplus](https://pixelsurplus.com/)
+[Mockup Mark](https://mockupmark.com/)<br>
+[Toptal](https://www.toptal.com/designers/subtlepatterns/patterns/)<br>
+[My Fonts](https://www.myfonts.com/WhatTheFont)<br>
+[Icon Scout](https://iconscout.com/free-icons/)<br>
+[Open Doodles](https://www.opendoodles.com/)<br>
+[Craftwork](https://craftwork.design/downloads/category/freebies/)<br>
+[Pixel Scrplus](https://pixelsurplus.com/)<br>
