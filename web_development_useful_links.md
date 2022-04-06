@@ -78,3 +78,4 @@
 [Open Doodles](https://www.opendoodles.com/)<br>
 [Craftwork](https://craftwork.design/downloads/category/freebies/)<br>
 [Pixel Scrplus](https://pixelsurplus.com/)<br>
+[Darrel Wilson](https://darrelwilson.com/elementor-templates/)<br>
