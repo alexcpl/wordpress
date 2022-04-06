@@ -42,3 +42,4 @@ E-Commerence
 
 EXTRA
 1. [ooohboi product page](https://ooohboi.gumroad.com/)
+2. [Better Search Replace plugin](https://wordpress.org/plugins/better-search-replace/) - for update database.
