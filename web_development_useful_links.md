@@ -1,3 +1,6 @@
+### Visual collaboration whiteboard
+[MIRO](https://miro.com/)<br>
+
 ### Imagery
 [unsplash](https://unsplash.com/)<br>
 [unblast – mock up](https://unblast.com/)<br>
@@ -9,6 +12,7 @@
 [blush.design](https://blush.design)<br>
 [drawkit.io](https://drawkit.io)<br>
 [openpeeps.com](https://openpeeps.com)<br>
+[Giphy](https://giphy.com/search/subscribe-like-stickers)<br>
 
 ### Icons
 [flaticon](https://www.flaticon.com/)<br>
