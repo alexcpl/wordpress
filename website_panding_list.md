@@ -1,4 +1,4 @@
 ###Website for developer  
-[Hacks Plaining](https://www.hacksplaining.com/)<br>
-[Google AI](https://ai.google/)<br>
-[Shift Search](https://shiftsearch.com/)<br>
+[Hacks Plaining](https://www.hacksplaining.com/)  
+[Google AI](https://ai.google/)  
+[Shift Search](https://shiftsearch.com/)  
