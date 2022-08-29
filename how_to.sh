@@ -13,11 +13,13 @@ services:
      volumes:
        - ./db:/var/lib/mysql
      restart: always
+     #ports:
+       #- 3306:3306
      environment:
-       MYSQL_ROOT_PASSWORD: $ROOTPWD
+       MYSQL_ROOT_PASSWORD: VeryStrongAdminP@ssw0rd
        MYSQL_DATABASE: wordpress
-       MYSQL_USER: $USER
-       MYSQL_PASSWORD: $PWD
+       MYSQL_USER: wordpress_user
+       MYSQL_PASSWORD: wordpress_P@ssw0rd
  
    wordpress:
      container_name: wordpress
@@ -32,8 +34,8 @@ services:
        - ./html:/var/www/html
      environment:
        WORDPRESS_DB_HOST: wordpress-db:3306
-       WORDPRESS_DB_USER: $USER
-       WORDPRESS_DB_PASSWORD: $PWD
+       WORDPRESS_DB_USER: wordpress_user
+       WORDPRESS_DB_PASSWORD: wordpress_P@ssw0rd
        WORDPRESS_DB_NAME: wordpress
      
    wordpress-pma:
