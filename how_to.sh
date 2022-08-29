@@ -4,7 +4,7 @@ upload_max_filesize = 100M
 post_max_size = 100M
 
 # docker-compose.yml
-version: "2"
+version: "3"
  
 services:
    wordpress-db:
@@ -20,6 +20,8 @@ services:
        MYSQL_DATABASE: wordpress
        MYSQL_USER: wordpress_user
        MYSQL_PASSWORD: wordpress_P@ssw0rd
+     networks:
+      - wp-network
  
    wordpress:
      container_name: wordpress
@@ -37,6 +39,8 @@ services:
        WORDPRESS_DB_USER: wordpress_user
        WORDPRESS_DB_PASSWORD: wordpress_P@ssw0rd
        WORDPRESS_DB_NAME: wordpress
+     networks:
+      - wp-network
      
    wordpress-pma:
     image: phpmyadmin/phpmyadmin
@@ -50,3 +54,9 @@ services:
     ports:
         - 8082:80
     restart: always
+    networks:
+      - wp-network
+    
+networks:
+  wp-network:
+    driver: bridge
