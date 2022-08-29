@@ -44,9 +44,9 @@ services:
     depends_on:
         - wordpress-db
     environment:
-        - PMA_HOST: wordpress-db
-        - PMA_PORT: 3306
-        - PMA_ARBITRARY: 1
+        - PMA_HOST=wordpress-db
+        - PMA_PORT=3306
+        - PMA_ARBITRARY=1
     ports:
         - 8082:80
     restart: always
