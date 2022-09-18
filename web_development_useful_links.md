@@ -52,6 +52,7 @@
 ### Fonts
 [fontesk](https://fontesk.com/)<br>
 [WhatFont](https://whatfont.com)<br>
+[FontsInUse](https://fontsinuse.com/)<br>
 
 ### Others
 [Whocanuse](https://whocanuse.com/?b=335399&c=ebbddc&f=20&s)<br>
