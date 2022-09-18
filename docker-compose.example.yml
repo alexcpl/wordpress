@@ -2,48 +2,50 @@
 version: "3"
 services:
   db:
-    # mariadb image supports both amd64 & arm64 architecture
+    # We use a mariadb image which supports both amd64 & arm64 architecture
     #image: mariadb:10.6.4-focal
-    # If you want to use MySQL, uncomment the following line
+    # If you really want to use MySQL, uncomment the following line
     # image: mysql:latest
     image: mysql:8.0.27
-    container_name: [CONTAINER_NAME-db] #CONTAINER_NAME
+    container_name: $PROJECT_NAME-db
     command: '--default-authentication-plugin=mysql_native_password'
     volumes:
-      - [PROJECT_PATH]/db:/var/lib/mysql #PROJECT_PATH
+      - [PROJECT_PATH]/db:/var/lib/mysql
     restart: always
+    env_file: .env
     environment:
-      - MYSQL_ROOT_PASSWORD=[ROOT_PASSWORD] #DATABASE_ROOT_PASSWORD
-      - MYSQL_DATABASE=wordpress
-      - MYSQL_USER=wordpress
-      - MYSQL_PASSWORD=[DATABASE_PASSWORD] #DATABASE_PASSWORD
+      - MYSQL_ROOT_PASSWORD=$MYSQL_ROOT_PASSWORD
+      - MYSQL_DATABASE=$MYSQL_DATABASE
+      - MYSQL_USER=$MYSQL_USER
+      - MYSQL_PASSWORD=$MYSQL_PASSWORD
     expose:
       - 3306
     networks:
-      - [PROJECT-network] #PROJECT_NETWORK
+      - $NETWORK_NAME
 
   wordpress:
     image: wordpress:latest
-    container_name: [CONTAINER_NAME-wordpress] #CONTAINER_NAME
+    container_name: $PROJECT_NAME-wordpress
     depends_on:
         - db
     ports:
-      - 8081:80 #PROJECT_ACCESS_PORT
+      - 8081:80
     volumes:
-       - [PROJECT_PATH]/uploads.ini:/usr/local/etc/php/conf.d/uploads.ini #PROJECT_PATH
-       - [PROJECT_PATH]/html:/var/www/html #PROJECT_PATH
+       - [PROJECT_PATH]/uploads.ini:/usr/local/etc/php/conf.d/uploads.ini
+       - [PROJECT_PATH]/html:/var/www/html
     restart: always
+    env_file: .env
     environment:
-      - WORDPRESS_DB_HOST=db
-      - WORDPRESS_DB_USER=wordpress
-      - WORDPRESS_DB_PASSWORD=[DATABASE_PASSWORD] #DATABASE_PASSWORD
-      - WORDPRESS_DB_NAME=wordpress
+      - WORDPRESS_DB_HOST=db:3306
+      - WORDPRESS_DB_USER=$MYSQL_USER
+      - WORDPRESS_DB_PASSWORD=$MYSQL_PASSWORD
+      - WORDPRESS_DB_NAME=$MYSQL_DATABASE
     networks:
-      - [PROJECT-network] #PROJECT_NETWORK
+      - $NETWORK_NAME
 
   wordpress-pma:
     image: phpmyadmin/phpmyadmin
-    container_name: [CONTAINER-pma] #CONTAINER_NAME
+    container_name: $PROJECT_NAME-pma
     depends_on:
         - db
     environment:
@@ -54,8 +56,8 @@ services:
         - 8082:80
     restart: always
     networks:
-      - [PROJECT-network] #PROJECT_NETWORK
+      - $NETWORK_NAME
 
 networks:
-  [PROJECT-network]: #PROJECT_NETWORK
+  $NETWORK_NAME:
     driver: bridge
