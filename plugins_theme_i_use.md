@@ -5,7 +5,7 @@ Plugins
 4. OoohBoi Steroids for Elementor (Addons for elementor)
 5. Stackable - Gutenberg Blocks (Addons for wordpress default editor)
 6. Smash Balloon Instagram Feed (Instagram feed plugin)
-7. WPvivid Backup Plugin (Backup plugin)
+7. -WPvivid Backup Plugin (Backup plugin)-
 8. Woocommerence (Shop plugin for wordpress)
 9. Erident Custom Login and Dashboard (custom login page)
 10. If Menu - Visibility control for menu items (Show or hide menu items for login or non login users)
